@@ -26,4 +26,4 @@
 
 # 13 mv : it is used to move a file from source to destination path
 
-#14 cp: it is used to copy a file from source to destination path 
+# 14 cp: it is used to copy a file from source to destination path 
